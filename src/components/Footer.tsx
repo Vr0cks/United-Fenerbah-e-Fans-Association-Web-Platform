@@ -38,7 +38,7 @@ const Footer = () => {
                     <FadeIn>
                         <Link href="/" className="flex items-center gap-3 group mb-6">
                             <div className="relative w-10 h-10 rounded-full overflow-hidden bg-white">
-                                <Image src="/logo.jpg" alt="BİRFED" fill sizes="40px" className="object-contain" />
+                                <Image src="/birfed.jpg" alt="BİRFED" fill sizes="40px" className="object-contain" />
                             </div>
                             <span className="font-bold text-2xl text-white group-hover:text-[#f1c40f] transition-colors">
                                 BİRFED
