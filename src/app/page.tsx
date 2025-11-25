@@ -1,10 +1,17 @@
-import Hero from "@/components/Hero";
+import Hero from "@/components/hero";
+import Features from "@/components/Features";
+import Leadership from "@/components/Leadership";
+import Projects from "@/components/Projects";
+import Footer from "@/components/Footer"; // <--- IMPORT
 
 export default function Home() {
   return (
     <>
       <Hero />
-      {/* Buraya sonra diğer bölümler (Hakkımızda, Etkinlikler) gelecek */}
+      <Features />
+      <Leadership />
+      <Projects />
+      <Footer /> {/* <--- EKLE */}
     </>
   );
 }
