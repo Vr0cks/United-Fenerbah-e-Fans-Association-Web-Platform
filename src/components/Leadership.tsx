@@ -65,17 +65,17 @@ const Leadership = () => {
 // Dosya isimlerinin BURADAKİLERLE public klasöründekilerin AYNI olduğundan emin ol.
 const MEMBERS = [
   {
-    name: 'M. Burak Çeliker', 
+    name: 'Serhat Öztürk', 
     role: 'Yönetim Kurulu Başkanı',
     image: '/team-1.jpg', 
   },
   {
-    name: 'Hakan Tüzün', 
-    role: 'Başkan Vekili',
+    name: 'Orçun Apay', 
+    role: 'Asbaşkan',
     image: '/team-2.jpg',
   },
   {
-    name: 'Serkan Öztürk', 
+    name: 'M. Burak Çeliker', 
     role: 'Genel Sekreter',
     image: '/team-3.jpg',
   },
