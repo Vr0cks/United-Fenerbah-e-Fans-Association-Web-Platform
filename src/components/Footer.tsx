@@ -114,7 +114,7 @@ const Footer = () => {
                     <p className="text-xs text-gray-500">
                         Designed & Developed by 
                         <Link 
-                            href="https://www.linkedin.com/in/ahmet-yi%C4%9Fit-canl%C4%B1/?locale=tr_TR" 
+                            href="https://my-portfolio-ochre-ten-83.vercel.app/tr" 
                             target="_blank"
                             className="font-bold text-[#f1c40f] ml-1 hover:text-white transition-colors cursor-pointer"
                         >
